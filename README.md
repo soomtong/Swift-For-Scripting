@@ -189,3 +189,5 @@ Old but good talk. Pay attention to Dependency Management section.
 ## Author
 
 Artem Novichkov, https://www.artemnovichkov.com/
+
+📬 One essential iOS article a day: [iOS Daily on Telegram](https://t.me/+VPazeHsrMg43YTg6)
